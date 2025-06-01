@@ -3,7 +3,8 @@ var cherub = "Cupid";
 
 if (cherub === "Cupid") console.log("Ouch, an arrow!  Ooo, I'm in love!");
 
-if (cherub === "Cupid") console.log("Ouch, an arrow!  Ooo, I'm in love!");
+if (cherub === "Cupid") console.log("Ouch, an arrow!  Ooo, I'm in love!"); 
+
 else console.log("I feel nothing!");
 
 let errorMsg = '';
