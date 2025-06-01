@@ -20,7 +20,8 @@
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  "liveServer.settings.root": "/workspaces/learning-the-javascript-language-4369302/",
+  "liveServer.settings.root": "/workspaces/learning-the-javascript-language-4369302/CH05,CH06,CH07,CH08,CH09,CH10,CH11,CH12,CH13,CH14,CH15,CH16,CH17,CH18,CH19,CH20,CH21,CH22,CH23,CH24",
+  "liveServer.settings.port": 5500,
   "prettier.enable": true,
   "eslint.alwaysShowStatus": false,
   "liveServer.settings.donotVerifyTags": true
